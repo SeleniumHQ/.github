@@ -10,7 +10,7 @@ including malicious actors.
 Security issues in this project can be safely reported via the the following 
 address:
 
-    [security@seleniumhq.org](mailto:security@seleniumhq.org)
+security@seleniumhq.org
 
 In the report, please provide a [concise reproducible test case](http://sscce.org/) and describe 
 what results you are seeing and what results you expect.
